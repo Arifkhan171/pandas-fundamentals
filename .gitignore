@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Generated CSV outputs
+data/raw/output_*.csv
